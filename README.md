@@ -7,11 +7,11 @@ T2TRG interim meeting on security topics
 **Time:** Thursday, April 3rd, 15:00 UTC<br>
 (90 minutes)
 
-icalendar entry: TBD
+icalendar entry: <https://datatracker.ietf.org/meeting/interim-2025-t2trg-03/sessions/t2trg.ics>
 
 This interim will happen online via meetecho, please see<br>
 <https://datatracker.ietf.org/meeting/interim-2025-t2trg-03/session/t2trg><br>
-Meetecho TBD
+Meetecho: <https://meetings.conf.meetecho.com/interim/?group=e084a4b2-3e7c-488f-8391-7ec3ef2cc645>
 
 Local time in various locations:<br>
 <https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+security+interim&iso=20250403T18&p1=101&ah=1&am=30>
