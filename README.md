@@ -10,7 +10,7 @@ T2TRG interim meeting on security topics
 icalendar entry: TBD
 
 This interim will happen online via meetecho, please see<br>
-<https://datatracker.ietf.org/meeting/interim-2025-t2trg-02/session/t2trg><br>
+<https://datatracker.ietf.org/meeting/interim-2025-t2trg-03/session/t2trg><br>
 Meetecho TBD
 
 Local time in various locations:<br>
